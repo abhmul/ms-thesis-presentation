@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.5.17)  31 MAY 2022 23:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.5.17)  1 JUN 2022 00:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1016,9 +1016,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [23
 
-] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [24
+] [24
 
-] [25
+] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [25
 
 ] [26
 
@@ -1028,9 +1028,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [29
 
-] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [30
+] [30
 
-] [31
+] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [31
 
 ] [32
 
@@ -1080,37 +1080,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [55
 
-]
-Overfull \hbox (7.13023pt too wide) detected at line 311
-[][]
- []
-
-[56
+] [56
 
 ]
-Overfull \hbox (7.13023pt too wide) detected at line 311
+Overfull \hbox (7.13023pt too wide) detected at line 312
 [][]
  []
 
 [57
 
 ]
-Overfull \hbox (7.13023pt too wide) detected at line 311
+Overfull \hbox (7.13023pt too wide) detected at line 312
 [][]
  []
 
 [58
 
 ]
-Overfull \hbox (7.13023pt too wide) detected at line 311
+Overfull \hbox (7.13023pt too wide) detected at line 312
 [][]
  []
 
 [59
 
-] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [60
+]
+Overfull \hbox (7.13023pt too wide) detected at line 312
+[][]
+ []
 
-] [61
+[60
+
+] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [61
 
 ] [62
 
@@ -1130,9 +1130,9 @@ Overfull \hbox (7.13023pt too wide) detected at line 311
 
 ] [70
 
-] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [71
+] [71
 
-] [72
+] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [72
 
 ] [73
 
@@ -1180,9 +1180,9 @@ Overfull \hbox (7.13023pt too wide) detected at line 311
 
 ] [95
 
-] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [96
+] [96
 
-] [97
+] (/home/abhijeet/Documents/ms-thesis-presentation/main.toc) [97
 
 ] [98
 
@@ -1220,6 +1220,8 @@ Overfull \hbox (7.13023pt too wide) detected at line 311
 
 ] [115
 
+] [116
+
 ]
 \tf@nav=\write6
 \openout6 = `main.nav'.
@@ -1230,27 +1232,27 @@ Overfull \hbox (7.13023pt too wide) detected at line 311
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 517.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 517.
  (/home/abhijeet/Documents/ms-thesis-presentation/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 517.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 517.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8328C8F626C229CAD91DC1C380099BCE;420.
  ) 
 Here is how much of TeX's memory you used:
- 17631 strings out of 494923
- 332071 string characters out of 6180742
- 402625 words of memory out of 5000000
+ 17633 strings out of 494923
+ 332094 string characters out of 6180742
+ 402622 words of memory out of 5000000
  20299 multiletter control sequences out of 15000+600000
  14521 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,15n,64p,846b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /home/abhijeet/Documents/ms-thesis-presentation/main.pdf (115 pages, 445375 bytes).
+Output written on /home/abhijeet/Documents/ms-thesis-presentation/main.pdf (116 pages, 447983 bytes).
 PDF statistics:
- 3275 PDF objects out of 3580 (max. 8388607)
- 3097 compressed objects within 31 object streams
- 240 named destinations out of 1000 (max. 500000)
+ 3303 PDF objects out of 3580 (max. 8388607)
+ 3123 compressed objects within 32 object streams
+ 242 named destinations out of 1000 (max. 500000)
  147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
